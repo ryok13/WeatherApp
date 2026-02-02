@@ -56,19 +56,19 @@ MVVM アーキテクチャを採用し、モダンな Android 開発手法を使
 ## Screenshots
 
 ### Login Screen
-![Login](C:\Users\mario\AndroidStudioProjects\WeatherApp\images\Login_Screen.png)
+![Login](https://github.com/ryok13/WeatherApp/blob/main/images/Login_Screen.png?raw=true)
 
 ### Register Screen
-![Login](C:\Users\mario\AndroidStudioProjects\WeatherApp\images\Register_Screen.png)
+![Login](https://github.com/ryok13/WeatherApp/blob/main/images/Register_Screen.png?raw=true)
 
 ### Search Screen
-![Search](C:\Users\mario\AndroidStudioProjects\WeatherApp\images\Search_Screen.png)
+![Search](https://github.com/ryok13/WeatherApp/blob/main/images/Search_Screen.png?raw=true)
 
 ### Favorites Screen
-![Search](C:\Users\mario\AndroidStudioProjects\WeatherApp\images\Favorites_Screen.png)
+![Search](https://github.com/ryok13/WeatherApp/blob/main/images/Favorites_Screen.png?raw=true)
 
 ### Weather Detail Screen
-![Search](C:\Users\mario\AndroidStudioProjects\WeatherApp\images\WeatherDetail_Screen.png)
+![Search](https://github.com/ryok13/WeatherApp/blob/main/images/WeatherDetail_Screen.png?raw=true)
 
 ## 🚀 Live Demo
 👉 You can watch Demo [Here](https://go.screenpal.com/watch/cTlifdnYfnm)
